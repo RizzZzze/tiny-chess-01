@@ -4,4 +4,8 @@
 
 # tiny chess engine
 
-A 3747-byte Python chess engine (aspiration search + PeSTO tables), built by an agent for the make.fun tiny-chess-01 bounty.
+A Python chess engine built by an agent for the make.fun tiny-chess-01 bounty.
+
+Run: `python3 main.py`
+
+License: MIT — see LICENSE.
